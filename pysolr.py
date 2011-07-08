@@ -16,6 +16,7 @@ will correspond to a field in Solr.
 ...     {'id': 'testdoc.2', 'order_i': 2, 'name': 'document 2', 'text': u'Владимир Маякoвский'},
 ...     {'id': 'testdoc.3', 'order_i': 3, 'name': 'document 3', 'text': u'test'},
 ...     {'id': 'testdoc.4', 'order_i': 4, 'name': 'document 4', 'text': u'test'}
+...     {'id': 'testdoc.5', 'order_i': 5, 'name': 'document 5', 'text': u'test'}
 ... ]
 
 
